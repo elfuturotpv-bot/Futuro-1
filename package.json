@@ -1,0 +1,8 @@
+{
+  "name": "tpv-mercado",
+  "version": "1.0.0",
+  "description": "TPV Mercado: app y servidor de sincronización",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
